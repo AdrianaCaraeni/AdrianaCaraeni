@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a sophomore at UMass Amherst with a passion for AI, machine learning, and education technology. At the ML4Ed lab, I explore how AI can enhance educational outcomes, while my work with the CIIR lab focuses on improving search algorithms and data retrieval in LLMs. I'm also helping to develop a minimum viable product for Wik Innovation. These projects allow me to combine research with practical applications, advancing my goal of using technology to create smarter, more efficient learning experiences.
+🔭 I’m a sophomore at UMass Amherst with a passion for AI, machine learning, and education technology. At the ML4Ed lab, I explore how AI can enhance educational outcomes, while my work with the CIIR lab focuses on improving search algorithms and data retrieval in LLMs. I'm also helping to develop a minimum viable product for the Culinary Career Ladder program allowing for videos to be transcribed, then translated, then have captions burned in in a linear easy to use sequence where transcriptions and translations are human editable and translation can happen concurrently in multiple languages at once. These projects allow me to combine research with practical applications, advancing my goal of using technology to create smarter, more efficient learning experiences.
 
 
 ## 🌐 Socials:
