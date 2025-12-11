@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a junior at UMass Amherst passionate about AI, machine learning, and driving real-world impact. At the Commonwealth of Massachusetts, I help deploy AI tools for state employees and public use. My research spans two labs: at ML4Ed, I explore how AI can enhance educational outcomes, and at CIIR, I work on improving search algorithms and data retrieval in LLMs with multiple projects in both labs. As a published researcher, I've worked on diverse projects that bridge research and industry. This past summer, I developed a minimum viable product for the Culinary Career Ladder program —a streamlined video transcription and translation pipeline with human-editable captions and concurrent multi-language support. I have also lead Agile development teams and mentored underclassman to reach their full potential.
 
 ## 🌐 Socials:
