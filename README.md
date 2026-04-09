@@ -1,4 +1,4 @@
-![GitHub Banner Goes Here.](/banner.png?raw=true)
+![GitHub Banner Goes Here.](/Banner.png?raw=true)
 <h1 align="center">🚀 Building AI that creates real-world impact</h1>
 <p align="center">Incoming Fidelity SWE Intern | AI Engineer @ Commonwealth of MA | Incoming MIT AI Studio Fellow</p>
 <p>I'm a junior at UMass Amherst studying Computer Science, Mathematics, and Business (3.96 GPA) plus in the Commonwealth Honors College. I build full-stack applications and AI systems that solve real problems — from deploying video translation pipelines serving 1,200+ students, to training a Neural Network for Quantitative Trading in the Minutemen Alternative Investment Fund.</p>
