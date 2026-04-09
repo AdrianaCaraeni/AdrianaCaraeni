@@ -33,7 +33,3 @@
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📊 GitHub Stats:
-![Adriana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianaCaraeni&theme=tokyonight&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaCaraeni&theme=tokyonight&hide_border=true&layout=compact)
