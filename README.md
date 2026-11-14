@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Building AI that creates real-world impact</h1>
 <p align="center"> Building Women's Finance App | Fidelity SWE Intern | AI Engineer @ Commonwealth of MA | MIT AI Studio Fellow</p>
 <p>I'm a senior at UMass Amherst studying Computer Science, Mathematics, and Business (3.94 GPA) and am in the Commonwealth Honors College. I build full-stack applications and AI systems that solve real problems — from deploying video translation pipelines serving 1,200+ students, to training a Neural Network for Quantitative Trading in the Minutemen Alternative Investment Fund.</p>
-<p>At the Commonwealth of Massachusetts, I architect AI tools used by state agencies and students statewide. As a researcher at Algoverse, I developed HiPO — a novel Hierarchical Preference Optimization method extending DPO to improve LLM reasoning on GSM8K and AIME24. I also founded Artemis, a full-stack email client integrating Google and Outlook OAuth with a lead mining and outreach engine.</p>
+<p>At the Commonwealth of Massachusetts, I architect AI tools used by state agencies and students statewide. As a researcher at Algoverse, I developed HiPO — a novel Hierarchical Preference Optimization method extending DPO to improve LLM reasoning on GSM8K and AIME24.</p>
 <p>I've led engineering teams, shipped production apps, published AI research, and driven measurable impact across every role. I'm driven by the intersection of cutting-edge AI and software that actually ships.</p>
 <p align="center">Explore my work below or visit my portfolio.</p>
 <p align="center">adrianacaraeni.com</p>
