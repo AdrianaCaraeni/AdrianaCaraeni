@@ -12,10 +12,10 @@ Incoming SWE @ Fidelity Investments · Prev. AI Engineer @ Commonwealth of MA ·
 
 I build data-heavy software for real users, from customer problem to production. CS + Math at UMass Amherst (3.94 GPA), Georgia Tech OMSCS in 2027.
 
-- 🌍 **AI Video Translation Pipeline:** deployed on AWS, serving 1,200+ students statewide
-- 🚌 **CapMetro Real-Time Transit:** led an 8-person team building live bus tracking (React, WebSockets, PostgreSQL)
-- 🔬 **HiPO:** a new DPO extension that improves LLM reasoning (GSM8K, AIME24)
-- 📈 **Quant Trading Neural Net:** built for the Minutemen Alternative Investment Fund
+🌍 **AI Video Translation Pipeline:** deployed on AWS, serving 1,200+ students statewide<br/>
+🚌 **CapMetro Real-Time Transit:** led an 8-person team building live bus tracking (React, WebSockets, PostgreSQL)<br/>
+🔬 **HiPO:** a new DPO extension that improves LLM reasoning (GSM8K, AIME24)<br/>
+📈 **Quant Trading Neural Net:** built for the Minutemen Alternative Investment Fund
 
 ## Tech stack
 ![Python](https://img.shields.io/badge/Python-F9A8D4?style=for-the-badge&logo=python&logoColor=DB2777)
